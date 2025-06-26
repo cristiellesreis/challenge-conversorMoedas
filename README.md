@@ -29,7 +29,7 @@ Para usar, é necessário gerar uma **chave de API** gratuita no site.
 
 📽️ *Exemplo do funcionamento da aplicação no console:*
 
-![Demonstração](./caminho/do/gif.gif)  
+![Demonstração](video-conversor.gif)  
 
 ---
 
