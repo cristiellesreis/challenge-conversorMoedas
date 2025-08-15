@@ -1,21 +1,21 @@
-# 💱 Conversor de Moedas - Java
+# Challenge Conversor de Moedas 💱
 
-Um projeto simples e funcional para praticar o consumo de **APIs REST** em Java, com leitura de dados JSON e interação via **console**. Desenvolvido como parte do programa de formação em tecnologia da **Alura + Oracle Next Education**.
+Projeto simples e funcional para praticar o consumo de **APIs REST** em Java, com leitura de dados JSON e interação via **console**. Desenvolvido como parte do programa de formação em tecnologia da **Alura + Oracle Next Education**.
 
 ---
 
-## 📌 Sobre o Projeto
+## Funcionalidades
 
 Este conversor permite ao usuário escolher entre diferentes moedas e realizar conversões com base em **valores atualizados em tempo real**, utilizando uma API externa de câmbio.
 
-✔️ Projeto executado totalmente no console  
-✔️ Menu com 6 opções de conversão  
-✔️ Conversões baseadas em taxas reais  
-✔️ Estrutura orientada a objetos com boas práticas
+- Projeto executado totalmente no console
+- Menu com 6 opções de conversão
+- Conversões baseadas em taxas reais
+- Estrutura orientada a objetos com boas práticas
 
 ---
 
-## 🌍 API Utilizada
+## API ExchangeRate
 
 Os dados são obtidos da API gratuita:
 
@@ -25,7 +25,7 @@ Para usar, é necessário gerar uma **chave de API** gratuita no site.
 
 ---
 
-## 🎥 Demonstração
+## Demonstração
 
 📽️ *Exemplo do funcionamento da aplicação no console:*
 
@@ -33,7 +33,7 @@ Para usar, é necessário gerar uma **chave de API** gratuita no site.
 
 ---
 
-## 🛠️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
@@ -46,7 +46,7 @@ Para usar, é necessário gerar uma **chave de API** gratuita no site.
 
 ---
 
-## 📚 Créditos
+## Créditos
 
 Este projeto foi proposto como desafio pelo programa:
 
@@ -55,7 +55,7 @@ Este projeto foi proposto como desafio pelo programa:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Projeto de uso educacional, livre para estudos e modificações.
 
